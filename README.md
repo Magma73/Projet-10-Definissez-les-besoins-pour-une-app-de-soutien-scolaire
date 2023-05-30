@@ -22,23 +22,23 @@ Il faut définir les besoins du client Learn@Home, avant de démarrer la concept
 ## Livrables du projet
 
 ### Diagrammes de cas d'usage
-![Diagrammes de cas d'usage](Magnin_Marine_1_diagramme_cas_usage_052023)
+![Diagrammes de cas d'usage](Magnin_Marine_1_diagramme_cas_usage_052023.pdf)
 
 ### Users stories
 ![Users stories](Marine_Magnin_2_user_stories_052023.pdf)
 
 
 ### Maquettes Desktop et Mobile
-Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/Q3yNeD7WTK9QHDldg9vaRl/UI-Design-FishEye-FR).
+Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TTKXCfU1PmVHM9/Maquettes-Projet-10---Learn%40Home-(Copy)?type=design&t=EHK5UMXBerpD3lvk-0).
 
-[!Aperçu de la page de connexion en Desktop](Se connecter.png)
+[!Aperçu de la page de connexion en Desktop](/img/Se connecter.png)
 
-[!Aperçu du Tableau de bord en Mobile](Tableau de bord 1 - Élève.png)
+[!Aperçu du Tableau de bord en Mobile](/img/Tableau de bord 1 - Élève.png)
 
 
 
 ### Kanban
-![Kanban](https://trello.com/b/njVPQfpj/learnhome)
+[Kanban](https://trello.com/b/njVPQfpj/learnhome)
 
 
 
@@ -49,7 +49,7 @@ Dans la réunion de lancement du projet, le client a précisé ce qu'il attend d
 ### Contraintes
 * 5 pages : Connexion, Tableau de bord, Gestion des tâches, Chat et Calendrier
 * Au moins 1 maquette/page
-* Partir du logo de base pour construire l'identité graphique ![logo d'origine](logo-origine.png)
+* Partir du logo de base pour construire l'identité graphique ![logo d'origine](/img/logo-origine.png)
 * Produire les maquettes Desktop et Mobile
 
 
