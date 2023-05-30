@@ -29,11 +29,10 @@ On trouve 15 ![Users stories](Marine_Magnin_2_user_stories_052023.pdf) pour ce p
 
 
 ### Maquettes Desktop et Mobile
-Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TTKXCfU1PmVHM9/Maquettes-Projet-10---Learn%40Home-(Copy)?type=design&t=EHK5UMXBerpD3lvk-0).
+Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TTKXCfU1PmVHM9/Maquettes-Projet-10---Learn%40Home-(Copy)?type=design&t=EHK5UMXBerpD3lvk-0) :
 
-[Aperçu de la page de connexion en Desktop](/img/Se-connecter.png)
-
-[Aperçu du Tableau de bord en Mobile](/img/Tableau-de-bord-eleve.png)
+* [Aperçu de la page de connexion en Desktop](/img/Se-connecter.png)
+* [Aperçu du Tableau de bord en Mobile](/img/Tableau-de-bord-eleve.png)
 
 
 
@@ -53,7 +52,8 @@ Dans la ![réunion de lancement du projet](Notes+-+Réunion+Learn@Home.pdf), le
 ### Contraintes
 * 5 pages : Connexion, Tableau de bord, Gestion des tâches, Chat et Calendrier
 * Au moins 1 maquette/page
-* Partir du logo de base pour construire l'identité graphique ![logo d'origine](/img/logo-origine.png)
 * Produire les maquettes Desktop et Mobile
+* Partir du logo de base pour construire l'identité graphique ![logo d'origine](/img/logo-origine.png)
+
 
 
