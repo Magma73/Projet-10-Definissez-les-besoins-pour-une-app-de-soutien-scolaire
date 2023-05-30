@@ -38,13 +38,17 @@ Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TT
 
 
 ### Kanban
-[Kanban](https://trello.com/b/njVPQfpj/learnhome)
+Le [Kanban](https://trello.com/b/njVPQfpj/learnhome) comprend plusieurs rubriques :
+* Backlog : pour les users stories
+* Analyze : pour les tâches à accomplir triées par ordre de priorité
+* Develop : pour les tâches en cours de développement
+* Test : pour les tâches en phase de test
+* Done : pour les tâches terminées
 
 
 
 ## Cahier des charges et contraintes
-Dans la réunion de lancement du projet, le client a précisé ce qu'il attend de l'application.
-![Notes de réunion](Notes+-+Réunion+Learn@Home.pdf)
+Dans la ![réunion de lancement du projet](Notes+-+Réunion+Learn@Home.pdf), le client a précisé ce qu'il attend de l'application.
 
 ### Contraintes
 * 5 pages : Connexion, Tableau de bord, Gestion des tâches, Chat et Calendrier
