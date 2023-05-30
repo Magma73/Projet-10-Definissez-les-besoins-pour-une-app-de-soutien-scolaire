@@ -22,18 +22,18 @@ Il faut définir les besoins du client Learn@Home, avant de démarrer la concept
 ## Livrables du projet
 
 ### Diagrammes de cas d'usage
-![Diagrammes de cas d'usage](Magnin_Marine_1_diagramme_cas_usage_052023.pdf)
+Il y a 5 ![Diagrammes de cas d'usage](Magnin_Marine_1_diagramme_cas_usage_052023.pdf) pour ce projet.
 
 ### Users stories
-![Users stories](Marine_Magnin_2_user_stories_052023.pdf)
+On trouve 15 ![Users stories](Marine_Magnin_2_user_stories_052023.pdf) pour ce projet.
 
 
 ### Maquettes Desktop et Mobile
 Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TTKXCfU1PmVHM9/Maquettes-Projet-10---Learn%40Home-(Copy)?type=design&t=EHK5UMXBerpD3lvk-0).
 
-[!Aperçu de la page de connexion en Desktop](/img/Se-connecter.png)
+[Aperçu de la page de connexion en Desktop](/img/Se-connecter.png)
 
-[!Aperçu du Tableau de bord en Mobile](/img/Tableau-de-bord-eleve.png)
+[Aperçu du Tableau de bord en Mobile](/img/Tableau-de-bord-eleve.png)
 
 
 
