@@ -31,9 +31,9 @@ Il faut définir les besoins du client Learn@Home, avant de démarrer la concept
 ### Maquettes Desktop et Mobile
 Les maquettes sont disponibles sur [Figma](https://www.figma.com/file/eLNCNnp6TTKXCfU1PmVHM9/Maquettes-Projet-10---Learn%40Home-(Copy)?type=design&t=EHK5UMXBerpD3lvk-0).
 
-[!Aperçu de la page de connexion en Desktop](/img/Se connecter.png)
+[!Aperçu de la page de connexion en Desktop](/img/Se-connecter.png)
 
-[!Aperçu du Tableau de bord en Mobile](/img/Tableau de bord 1 - Élève.png)
+[!Aperçu du Tableau de bord en Mobile](/img/Tableau-de-bord-eleve.png)
 
 
 
